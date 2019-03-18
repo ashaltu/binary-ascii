@@ -1,2 +1,2 @@
 # binary-ascii
-Binary to Ascii Convert and vice versa
+Binary to Ascii Converter and vice versa
